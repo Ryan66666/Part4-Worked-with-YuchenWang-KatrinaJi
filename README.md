@@ -3,17 +3,19 @@
 ---
 # GIF of 2X Input with Duration of 5 sec
 
+![IMG_9802](https://user-images.githubusercontent.com/105755054/202316319-907d265c-0d42-40bf-bef3-64c774805ace.GIF)
+![IMG_9803](https://user-images.githubusercontent.com/105755054/202316322-e6ec8006-c0b3-42e2-b2f7-6e75753967b3.GIF)
 
-
-The output should be 10s
-
-
+The output should be 2.5s
 
 # GIF of 0.5X Output With Duration of 5 sec
 
 
+![IMG_9806](https://user-images.githubusercontent.com/105755054/202317288-ab0ef5e0-8500-42e6-8abc-7eb2aeba31d5.GIF)
+![IMG_9807](https://user-images.githubusercontent.com/105755054/202317293-60eea9e9-6bc7-4b84-9bdc-fb48bd08fbd6.GIF)
 
-The output should be 2.5 s
+
+The output should be 10 s
 
 ---
 
