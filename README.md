@@ -1,4 +1,4 @@
-# Part4 YuchenWang Worked with KatrinaJi
+# Part4 YuchenWang Worked with KatrinaJi & Ryan Zhang
 
 ---
 # GIF of 2X Input with Duration of 5 sec
